@@ -35,10 +35,12 @@ We welcome collaboration and are always on the lookout for talented individuals 
 
 Stay updated with our latest projects and announcements:
 
-- **Twitter**: [@OurSolanaCompany](https://twitter.com/OurSolanaCompany)
-- **Discord**: [Join our Discord](https://discord.gg/OurSolanaCompany)
-- **GitHub**: [OurSolanaCompany](https://github.com/OurSolanaCompany)
-- **Website**: [OurSolanaCompany.com](https://OurSolanaCompany.com)
+- **Telegram**: [TimeToLive](https://t.me/ttl_upgrade)
+- **Discord**: coming soon...
+- **GitHub**: coming soon...
+- **Website**: coming soon...
+
+#WhitePaper
 
 ### Thank You! 🙏
 
