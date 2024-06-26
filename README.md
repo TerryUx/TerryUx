@@ -40,7 +40,8 @@ Stay updated with our latest projects and announcements:
 - **GitHub**: coming soon...
 - **Website**: coming soon...
 
-#WhitePaper
+## WhitePaper
+https://github.com/TlmeToLive/WhitePaper
 
 ### Thank You! 🙏
 
