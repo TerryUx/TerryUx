@@ -1,6 +1,3 @@
-Sure! Here is the content formatted in Markdown:
-
-```markdown
 ## Welcome to Our Solana Developer Company 🚀
 
 We're thrilled to have you here! As a leading developer company in the Solana ecosystem, we're passionate about building innovative, high-performance solutions that empower users and developers alike. Dive into our Readme to learn more about what we do and how we can collaborate.
@@ -50,4 +47,3 @@ Thank you for being a part of our journey. Together, we can build a decentralize
 ---
 
 *This Readme is subject to updates as we continue to grow and evolve. Stay tuned for more exciting developments!*
-```
